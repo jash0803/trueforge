@@ -1,5 +1,11 @@
 # @truefoundry/trueforge
 
+## 0.3.0-rc.1
+
+### Patch Changes
+
+- f98e575: Add Sentry for critical-flow error reporting (TrueFoundry auth-server or SENTRY_DSN init) with configurable additional tags.
+
 ## 0.3.0-rc.0
 
 ### Minor Changes
